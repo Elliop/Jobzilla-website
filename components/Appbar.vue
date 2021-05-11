@@ -40,7 +40,7 @@ export default {
                 { text: "pricing", route: "/pricing" },
                 { text: "contact us", route: "/contact" },
                 { text: "resources", route: "/" },
-                { text: "login", route: "http://localhost:3000/login" }
+                { text: "login", route: "/" }
             ]
         };
     }
