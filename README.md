@@ -1,6 +1,6 @@
 # Jobzilla-website
 
-Jobzilla is a technical tests platform for dev recruitement, it uses vuejs/vuetify on the front, nestjs for the api, and Mongodb for storage, this is just the first version of the website.
+Jobzilla is a technical tests platform for dev recruitement, it uses Vuejs/Vuetify on the front, nestjs for the api, and Mongodb for storage, this is just the first version of the website.
 
 <h3>Website</h3>
 
