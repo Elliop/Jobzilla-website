@@ -1,0 +1,22 @@
+{
+  "name": "jobzilla-website",
+  "version": "1.0.0",
+  "description": "Jobzilla landing static page",
+  "author": "Alaa Zorkane",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "vuetify": "^2.1.7"
+  },
+  "devDependencies": {
+    "@mdi/font": "^4.5.95",
+    "@nuxtjs/eslint-config": "^1.1.2",
+    "eslint": "^6.6.0"
+  }
+}
